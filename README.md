@@ -3,7 +3,7 @@
          Created by : METHY              
 
 #install
-git clone https://github.com/methy2547/DDOS-WORK.git
+git clone 
 cd DDOS-WORK
 python2 ./ddoswork.py
 

@@ -1,9 +1,15 @@
 
              DDOS-WORK            
          Created by : METHY              
+youtube - METHY
 
-#install
+
 git clone 
+
+
 cd DDOS-WORK
-python2 ./ddoswork.py
+
+
+python2 ddoswork.py IP PORT packages 
+
 

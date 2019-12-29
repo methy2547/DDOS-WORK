@@ -1,5 +1,9 @@
-สวัสดีครับผม METHY มาจากช่องYOUTUBE METHY นะครับ
-แจกตัวDDOS
-# DDOS-WORK
-DDOS-WORK ทำให้เน็ตปิง หรือ ดับ
+
+             DDOS-WORK            
+         Created by : METHY              
+
+#install
+git clone 
+cd DDOS-WORK
+python2 ./ddoswork.py
 
